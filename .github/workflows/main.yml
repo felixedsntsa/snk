@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: felixedsnsta  # ganti dengan username kamu
+          github_user_name: felixedsntsa  # ganti dengan username kamu
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
